@@ -22,7 +22,7 @@
 - Javascript
 - Stylesheet
 - BootSplash (for splash screen)
-- Firebase (database)
+- Firebase (database name: menu-list-55812-default-rtdb-export.json)
 - Redux (credit sa video ni sir dario hehe) 
 
 WALA PA NAHUMAN KAY NA BUANG NASAD ANG CODE HAHAY 
